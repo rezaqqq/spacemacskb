@@ -1,1 +1,1 @@
-`SPC f e R’ reloads spacemacs
+`SPC f e R` reloads spacemacs
