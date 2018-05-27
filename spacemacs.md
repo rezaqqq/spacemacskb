@@ -2,4 +2,4 @@
 
 `SPC f t` | File Tree (Just like **NERDTree**)
 
-`M-x` (alit + x) & `evil-normal-state` | Vim mode
+`M-x` (alt + x) & `evil-normal-state` | Vim mode
