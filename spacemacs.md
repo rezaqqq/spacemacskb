@@ -1,8 +1,9 @@
 ## Top
 - `SPC f e R` | Reloads spacemacs
+- `SPC t f` | Disply full collumn indecator (Vertical line)
 - `SPC f t` | File Tree (Just like **NERDTree**)
 - `M-x` (alt + x) & `evil-normal-state` | Vim mode
-- `M-x` (alt + x) & `customize-variable` | Tab size 
+- `M-x` (alt + x) & `customize-variable` | Tab size
 
 ## Useful Spacemacs commands
 copied from https://gist.github.com/robphoenix/9e4db767ab5c912fb558
