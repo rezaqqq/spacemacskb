@@ -4,6 +4,7 @@
 - `SPC f t` | File Tree (Just like **NERDTree**)
 - `M-x` (alt + x) & `evil-normal-state` | Vim mode
 - `M-x` (alt + x) & `customize-variable` | Tab size
+- `CTRL up/down` | Jump to empty lines
 
 ## Useful Spacemacs commands
 copied from https://gist.github.com/robphoenix/9e4db767ab5c912fb558
