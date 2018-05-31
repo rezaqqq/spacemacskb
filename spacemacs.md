@@ -5,7 +5,7 @@
 - `M-x` (alt + x) & `evil-normal-state` | Vim mode
 - `M-x` (alt + x) & `customize-variable` | Tab size
 - `CTRL up/down` | Jump to empty lines
-- `SPC w . [ ]` | Pad window to left and right
+- `SPC w . [ / ] / { / }` |  Pad window to left and right or up and down
 
 ## Useful Spacemacs commands
 copied from https://gist.github.com/robphoenix/9e4db767ab5c912fb558
