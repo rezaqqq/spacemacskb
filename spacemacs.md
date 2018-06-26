@@ -8,6 +8,9 @@
 - `SPC w . [ / ] / { / }` |  Pad window to left and right or up and down
 - `SPC z x +/-` | Font size
 - `SPC t h i` | Hilight indentions
+- `SPC T s` | Select from themes
+- `SPC T n` | Switch between themes from `dotspacemancs-themes` directive
+
 
 ## Useful Spacemacs commands
 copied from https://gist.github.com/robphoenix/9e4db767ab5c912fb558
