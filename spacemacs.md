@@ -1,5 +1,6 @@
 ## Top
 - `SPC f e R` | Reloads spacemacs
+- `SPC t n` | Show/Hide line numbers
 - `SPC t f` | Disply full collumn indecator (Vertical line)
 - `SPC f t` | File Tree (Just like **NERDTree**)
 - `M-x` (alt + x) & `evil-normal-state` | Vim mode
