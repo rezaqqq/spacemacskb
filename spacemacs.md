@@ -2,17 +2,16 @@
 - `SPC f e R` | Reloads spacemacs
 - `SPC t n` | Show/Hide line numbers
 - `SPC t f` | Disply full collumn indecator (Vertical line)
+- `SPC t h i` | Hilight indentions
 - `SPC f t` | File Tree (Just like **NERDTree**)
 - `M-x` (alt + x) & `evil-normal-state` | Vim mode
 - `M-x` (alt + x) & `customize-variable` | Tab size
 - `CTRL up/down` | Jump to empty lines
 - `SPC w . [ / ] / { / }` |  Pad window to left and right or up and down
 - `SPC z x +/-` | Font size
-- `SPC t h i` | Hilight indentions
-- `SPC T s` | Select from themes
+- `SPC T s` | List and Select themes
 - `SPC T n` | Switch between themes from `dotspacemancs-themes` directive
-
-
+- `SPC h l` | List all config layers
 ## Useful Spacemacs commands
 copied from https://gist.github.com/robphoenix/9e4db767ab5c912fb558
 
