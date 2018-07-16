@@ -13,6 +13,10 @@
 - `SPC T n` - Switch between themes from `dotspacemancs-themes` directive
 - `SPC h l` - List all config layers
 
+## Fixed some warnings here
+- `npm i tern -g` - Install tern globally
+- `brew tap caskroom/fonts && brew cask install font-source-code-pro`
+
 ## Useful Spacemacs commands
 copied from https://gist.github.com/robphoenix/9e4db767ab5c912fb558
 
